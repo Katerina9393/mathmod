@@ -27,3 +27,4 @@ b=a
 x=1:1000
 y=(log10(sin(x^(-3))))
 plot(x,y)
+#high!
